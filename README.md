@@ -1,2 +1,2 @@
 # papers
-For PodOne-related papers (white papers, etc)
+For Qubicles-related papers (white papers, etc)
